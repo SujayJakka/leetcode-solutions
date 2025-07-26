@@ -22,3 +22,4 @@ __pycache__/
 *.exe
 
 auto_push.sh
+rename_solutions.sh
